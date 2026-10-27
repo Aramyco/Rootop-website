@@ -1,0 +1,6 @@
+{
+  "name": "Apex Crest Roofing & Restoration - Whop Website Template",
+  "description": "Production-ready US roofing contractor website template powered by Whop Websites, featuring Whop Payment Elements, card-on-file deposit escrows, automated invoicing, and Whop Leads API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
